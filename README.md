@@ -14,8 +14,8 @@ This is a simple terminal-based dictionary tool built using Python. The tool fet
 The following Python packages are required to run the script:
 
 - `requests`: For making API requests.
-- `pandas`: For data manipulation 
-- `numpy`: For numerical operations 
+- `pandas`: For data manipulation.
+- `numpy`: For numerical operations.
 
 ## Installation
 
